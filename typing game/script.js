@@ -8,7 +8,10 @@ const quotes = [
 	'Y en la calle ando suelto pero por ti me quito. Si tu me lo pides yo me porto bonito.',
 	'Cause you make me feel like. Ive been locked out of heaven.',
     'Dont be shy, girl, go bananza. Shake ya body like a belly dancer.',
-    'Te fe-li-cito, que bien actuas.'
+    'Te fe-li-cito, que bien actuas.',
+	'Cause you are, you are the reason why Im still hanging on.',
+	'I really like your body, I really wanna get naughty. I think your such a hottie.',
+	'Vamonos a Marte donde nadie vaya a buscarte.'
 ];
 
 // array for storing the words of the current challenge word
